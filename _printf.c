@@ -6,7 +6,7 @@
  *Description: this functions implement some functions of printf
  *Return: num of characteres printed
  */
- 
+
 int _printf(const char *format, ...)
 {
 	const char *string;
@@ -103,7 +103,7 @@ int check_percent(int *flag, char aux)
  *Description: This function call function manager
  *Return: num of characteres printed
  */
- 
+
 int call_function_manager(char aux, va_list arg)
 {
 	int cont = 0;
