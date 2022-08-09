@@ -46,7 +46,7 @@ You might want to look at the gcc flag -Wno-format when testing with your _print
 
 ### **/*Code below**
 
-alex@ubuntu:~/c/printf$ cat main.c 
+\alex@ubuntu:~/c/printf$ cat main.c 
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
@@ -117,7 +117,7 @@ Len:[12]
 Len:[12]
 Unknown:[%r]
 Unknown:[%r]
-alex@ubuntu:~/c/printf$
+alex@ubuntu:~/c/printf$ \
 
 ### **Code ends here**
 */
