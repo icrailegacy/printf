@@ -1,4 +1,4 @@
-###### **This project is about coding a printf function**
+##### **This project is about coding a printf function**
 
 ### **Requirements**
 
