@@ -1,9 +1,9 @@
-###**This project is about coding a printf function**
+###### **This project is about coding a printf function**
 
-##**Requirements**
+### **Requirements**
 
 
-##**General**
+### **General**
 
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -19,12 +19,12 @@ All your header files should be include guarded
 Note that we will not provide the _putchar function for this project
 
 
-##**GitHub**
+### **GitHub**
 
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
 
-##**More Info**
+### **More Info**
 
 Authorized functions and macros
 write (man 2 write)
@@ -36,7 +36,7 @@ va_copy (man 3 va_copy)
 va_arg (man 3 va_arg)
 
 
-##**Compilation**
+### **Compilation**
 
 Your code will be compiled this way:
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
@@ -44,7 +44,7 @@ As a consequence, be careful not to push any c file containing a main function i
 Our main files will include your main header file (main.h): #include main.h
 You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf. Example of test file that you could use:
 
-##**/*Code below**
+### **/*Code below**
 
 alex@ubuntu:~/c/printf$ cat main.c 
 #include <limits.h>
@@ -119,7 +119,7 @@ Unknown:[%r]
 Unknown:[%r]
 alex@ubuntu:~/c/printf$
 
-##**Code ends here**
+### **Code ends here**
 */
 
 We strongly encourage you to work all together on a set of tests
