@@ -47,3 +47,10 @@ You might want to look at the gcc flag -Wno-format when testing with your _print
 We strongly encourage you to work all together on a set of tests
 If the task does not specify what to do with an edge case, do the same as printf
 _printf is a custom implementation of the C programming function printf. This project is an application of the C programming knowledge that ALX Africa cohort 8 students have learned since starting the program on June 6, 2022.
+
+For this project, we expect you to look at these concepts:
+
+Group Projects
+Pair Programming - How To
+Flowcharts
+Technical Writing
